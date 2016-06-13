@@ -1,5 +1,7 @@
 # build-love package
 
-A short description of your package.
+Build provider for [atom-build](https://github.com/noseglid/atom-build).
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Exposed as command name: "Run With Love"
+
+Error matching for first syntax or runtime error.

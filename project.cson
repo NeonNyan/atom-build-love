@@ -1,0 +1,5 @@
+config:
+  editor.excludeVcsIgnoredPaths: true
+  core.ignoredNames:
+    '*.git\*'
+devMode: true

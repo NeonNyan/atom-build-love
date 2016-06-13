@@ -1,0 +1,8 @@
+{
+  "parser": "babel-eslint",
+  "extends": "atom-build",
+  "rules":{
+    "comma-dangle": 2,
+    "no-unused-vars": 0
+  }
+}

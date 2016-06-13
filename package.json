@@ -1,17 +1,29 @@
 {
   "name": "build-love",
-  "main": "./lib/build-love",
+  "main": "./lib/love.js",
   "version": "0.0.0",
-  "description": "Build Love2D targets",
+  "description": "Build and run Love projects with atom-build.",
   "keywords": [
+    "love",
+    "love2d",
+    "build",
+    "lint"
   ],
-  "activationCommands": {
-  },
-  "repository": "https://github.com/atom/build-love",
+  "activationCommands": {},
+  "repository":{
+    "type" : "git",
+    "url": "https://github.com/NeonNyan/build-love"
+    },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
+  "providedServices": {
+    "builder": {
+      "description": "Build and run Love projects with atom-build.",
+      "versions": {
+        "2.0.0": "provideLove"
+      }
+    }
   }
 }
