@@ -12,7 +12,7 @@
   "activationCommands": {},
   "repository":{
     "type" : "git",
-    "url": "https://github.com/NeonNyan/build-love"
+    "url": "https://github.com/NeonNyan/atom-build-love"
     },
   "license": "MIT",
   "engines": {
