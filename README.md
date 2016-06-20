@@ -1,6 +1,6 @@
 # build-love package
 
-Build provider for [atom-build](https://github.com/noseglid/atom-build).
+Love2D build provider for [atom-build](https://github.com/noseglid/atom-build).
 
 Exposed as command name: "Run With Love"
 
