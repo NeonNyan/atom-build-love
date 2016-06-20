@@ -1,7 +1,7 @@
 {
   "name": "build-love",
   "main": "./lib/love.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Build and run Love projects with atom-build.",
   "keywords": [
     "love",
@@ -10,10 +10,10 @@
     "lint"
   ],
   "activationCommands": {},
-  "repository":{
-    "type" : "git",
+  "repository": {
+    "type": "git",
     "url": "https://github.com/NeonNyan/atom-build-love"
-    },
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
