@@ -1,7 +1,7 @@
 {
   "name": "build-love",
   "main": "./lib/love.js",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Build and run Love projects with atom-build.",
   "keywords": [
     "love",
